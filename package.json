@@ -1,5 +1,5 @@
 {
-  "name": "pickko-viz",
+  "name": "birdsong-visualizer",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -63,5 +63,6 @@
       "target": "portable",
       "icon": "public/logo.png"
     }
-  }
+  },
+  "description": "WebGL-accelerated audio spectrum visualizer app capturing birdsong acoustics."
 }
