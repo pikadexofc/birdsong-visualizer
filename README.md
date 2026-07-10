@@ -31,6 +31,6 @@ Birdsong Visualizer is a professional-grade spectral analyzer turning birdsong a
 ---
 
 <div align="center">
-  <p><b>PixelPie Media</b> • Made with love by Pico</p>
+  <p><b>PixelPie Media</b> • Made with ❤️ by Pickko</p>
   <p><i>Modern, minimal, and precise software utilities.</i></p>
 </div>
